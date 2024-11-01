@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/design-test/static/css/main.c5dca9c9.css",
-    "main.js": "/design-test/static/js/main.12984dcc.js",
+    "main.css": "/design-test/static/css/main.5982740b.css",
+    "main.js": "/design-test/static/js/main.ebab046c.js",
     "static/media/png-klev-club-hi6x-p-tinker-png-28.png": "/design-test/static/media/png-klev-club-hi6x-p-tinker-png-28.e8ff23e821bf77ca70ea.png",
     "static/media/images-removebg-preview.png": "/design-test/static/media/images-removebg-preview.47f80a4da07b2598dd4e.png",
     "static/media/statisticsCircle.png": "/design-test/static/media/statisticsCircle.a77dcad8839bd4b548c8.png",
     "static/media/onNotif.png": "/design-test/static/media/onNotif.1211b1c7f6382e9149a1.png",
     "static/media/settings.png": "/design-test/static/media/settings.aa35be332afd922bad90.png",
     "index.html": "/design-test/index.html",
-    "main.c5dca9c9.css.map": "/design-test/static/css/main.c5dca9c9.css.map",
-    "main.12984dcc.js.map": "/design-test/static/js/main.12984dcc.js.map"
+    "main.5982740b.css.map": "/design-test/static/css/main.5982740b.css.map",
+    "main.ebab046c.js.map": "/design-test/static/js/main.ebab046c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5dca9c9.css",
-    "static/js/main.12984dcc.js"
+    "static/css/main.5982740b.css",
+    "static/js/main.ebab046c.js"
   ]
 }
