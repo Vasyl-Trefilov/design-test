@@ -29,6 +29,7 @@ const Side: React.FC = () => {
           top: "20%",
           left: "8%",
           borderRadius: "25px",
+          zIndex: 20,
           padding: "50px",
           backgroundColor: "rgb(0, 71, 93)",
         }}
