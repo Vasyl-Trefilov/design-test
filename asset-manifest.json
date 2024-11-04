@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/design-test/static/css/main.74be6179.css",
-    "main.js": "/design-test/static/js/main.f5406c9d.js",
+    "main.js": "/design-test/static/js/main.c21ecc45.js",
     "static/media/png-klev-club-hi6x-p-tinker-png-28.png": "/design-test/static/media/png-klev-club-hi6x-p-tinker-png-28.e8ff23e821bf77ca70ea.png",
     "static/media/images-removebg-preview.png": "/design-test/static/media/images-removebg-preview.47f80a4da07b2598dd4e.png",
     "static/media/statisticsCircle.png": "/design-test/static/media/statisticsCircle.a77dcad8839bd4b548c8.png",
@@ -9,10 +9,10 @@
     "static/media/settings.png": "/design-test/static/media/settings.aa35be332afd922bad90.png",
     "index.html": "/design-test/index.html",
     "main.74be6179.css.map": "/design-test/static/css/main.74be6179.css.map",
-    "main.f5406c9d.js.map": "/design-test/static/js/main.f5406c9d.js.map"
+    "main.c21ecc45.js.map": "/design-test/static/js/main.c21ecc45.js.map"
   },
   "entrypoints": [
     "static/css/main.74be6179.css",
-    "static/js/main.f5406c9d.js"
+    "static/js/main.c21ecc45.js"
   ]
 }
