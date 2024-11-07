@@ -7,7 +7,7 @@
   margin-left: 80px;
   width: 40px;
   height: 40px;
-  background-image: url("../images/images-removebg-preview.png");
+  background-image: url("../images/Settings.png");
   background-size: cover;
   background-repeat: no-repeat;
   margin-right: 8px;
@@ -32,7 +32,7 @@
   display: flex;
 }
 .search-icon {
-  background-image: url("../images/314478_search_icon.png");
+  background-image: url("../images/Quit.png");
   width: 25px;
   height: 25px;
   background-size: cover;
@@ -47,7 +47,7 @@
 }
 
 .avatar {
-  background-image: url("../images/png-klev-club-hi6x-p-tinker-png-28.png");
+  background-image: url("../images/Quit.png");
   width: 50px;
   height: 50px;
   border-radius: 50%;

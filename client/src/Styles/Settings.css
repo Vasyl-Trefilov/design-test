@@ -11,7 +11,6 @@
 }
 .notifications-icon {
   position: relative;
-  background-image: url("../images/onNotif.png");
   background-size: 33px 33px;
   background-position: center;
   width: 50px;
@@ -19,8 +18,17 @@
   border-radius: 25px;
   background-repeat: no-repeat;
 }
+
+.notifications-on {
+  background-image: url("../images/MessageOn.png");
+}
+
+.notifications-off {
+  background-image: url("../images/MessageOff.png");
+}
+
 .settigns-icon {
-  background-image: url("../images/settings.png");
+  background-image: url("../images/Settings.png");
   background-size: 33px 33px;
   background-position: center;
   width: 50px;

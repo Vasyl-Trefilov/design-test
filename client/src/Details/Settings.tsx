@@ -28,7 +28,9 @@ const Settings: React.FC<SettingsProps> = ({
   return (
     <motion.div className="settings-container">
       <motion.div
-        className="notifications-icon"
+        className={`notifications-icon ${
+          notificationOn ? "notifications-on" : "notifications-off"
+        }`}
         onClick={() => {
           setNotificationOn(!notificationOn);
           setHasInteracted(true);
@@ -52,7 +54,7 @@ const Settings: React.FC<SettingsProps> = ({
           transition={{ duration: 0.5 }}
           style={{
             height: "3px",
-            backgroundColor: "#1f1f1f",
+            backgroundColor: "#1B1B1B",
             opacity: 0.9,
             position: "absolute",
             top: "50%",
